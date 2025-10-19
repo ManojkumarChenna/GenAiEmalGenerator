@@ -2,4 +2,7 @@ streamlit
 langchain
 langchain-community
 chromadb
+langchain-groq
+beautifulsoup4
+lxml
 python-dotenv
